@@ -2,5 +2,5 @@ white
 green
 yellow
 black
-blue
+purple
 
